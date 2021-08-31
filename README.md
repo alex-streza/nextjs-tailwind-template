@@ -80,9 +80,8 @@ Open http://localhost:3000 with your favorite browser to see your project.
 You can easily configure Next js Boilerplate. Please change the following file:
 
 - `public/apple-touch-icon.png`, `public/favicon.ico`, `public/favicon-16x16.png` and `public/favicon-32x32.png`: your website favicon, you can generate from https://favicon.io/favicon-converter/
-- `src/styles/main.css`: your CSS file using Tailwind CSS
-- `src/utils/AppConfig.ts`: configuration file
-- `src/templates/Main.tsx`: default theme
+- `src/shared/main.css`: your CSS file using Tailwind CSS
+- `src/layouts/Main.tsx`: default theme
 
 ### Deploy to production
 
