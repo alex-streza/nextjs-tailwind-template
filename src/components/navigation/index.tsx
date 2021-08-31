@@ -1,11 +1,13 @@
-import Button from "components/button";
-import Logo from "components/logo";
-import Link from "next/link";
-import React from "react";
+import React from 'react';
+
+import Link from 'next/link';
+
+import Button from '@components/button';
+import Logo from '@components/logo';
 
 const links = [
-  { label: "Home", to: "/" },
-  { label: "About", to: "/about" },
+  { label: 'Home', to: '/' },
+  { label: 'About', to: '/about' },
 ];
 
 const NavBar = () => {

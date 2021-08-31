@@ -1,6 +1,5 @@
-import { AppProps } from "next/app";
-
-import "../styles/main.css";
+import '@shared/globals.css';
+import { AppProps } from 'next/app';
 
 const MyApp = ({ Component, pageProps }: AppProps) => (
   // eslint-disable-next-line react/jsx-props-no-spreading

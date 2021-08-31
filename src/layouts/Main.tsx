@@ -1,9 +1,10 @@
-import NavBar from "@components/navigation";
-import { ReactNode } from "react";
+import { ReactNode } from 'react';
+
+import NavBar from '@components/navigation';
 
 type IMainProps = {
   meta: ReactNode;
-  children: ReactNode;
+  children?: ReactNode;
 };
 
 const Main = (props: IMainProps) => (
