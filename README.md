@@ -110,7 +110,7 @@ Pro tips: if you need a project wide type checking with TypeScript, you can run 
 
 ### Contributions
 
-Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
+This is a modified version from the great template by [CreativeDesignGurus](https://creativedesignsguru.com/category/nextjs/) https://github.com/ixartz/Next-js-Boilerplate so thank them for this great asset.
 
 ### License
 
