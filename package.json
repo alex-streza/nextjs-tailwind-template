@@ -22,7 +22,7 @@
     "styled-jsx-plugin-postcss": "^4.0.1"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "^11.1.0",
+    "@next/bundle-analyzer": "^11.1.2",
     "@svgr/webpack": "^5.5.0",
     "@types/node": "^16.4.14",
     "@types/react": "^17.0.17",
