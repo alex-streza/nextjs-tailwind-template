@@ -9,4 +9,8 @@ updates:
     directory: "/"
     # Check the npm registry for updates every day (weekdays)
     schedule:
-      interval: "monthly"
+      interval: "daily"
+    rebase-strategy: "auto"
+    labels:
+      - "security"
+      - "dependencies"
