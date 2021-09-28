@@ -1,5 +1,5 @@
-import { Main } from '@layouts/Main';
-import { Meta } from '@layouts/Meta';
+import { Main } from "@layouts/Main";
+import { Meta } from "@layouts/Meta";
 
 const Index = () => {
   return (

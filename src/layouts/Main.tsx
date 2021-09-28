@@ -1,6 +1,6 @@
-import { ReactNode } from 'react';
+import { ReactNode } from "react";
 
-import NavBar from '@components/navigation';
+import NavBar from "@components/navigation";
 
 type IMainProps = {
   meta: ReactNode;
