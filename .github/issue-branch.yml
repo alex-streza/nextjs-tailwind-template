@@ -1,0 +1,6 @@
+branchName: "issue-${issue.number}-${issue.title,}"
+gitSafeReplacementChar: "-"
+autoCloseIssue: true
+openDraftPR: true
+commentMessage: "Branch ${branchName} created for issue: ${issue.title}"
+mode: chatops
